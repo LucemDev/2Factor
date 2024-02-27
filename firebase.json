@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "2factor",
+    "public": "dist",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
